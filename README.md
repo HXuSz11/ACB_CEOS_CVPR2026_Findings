@@ -2,7 +2,7 @@
 
 ## Manifold-Aware Boundary Sampling with Adaptive Class-Balanced Loss
 
-![Method overview](images\CEOS_overview.pdf)
+![Method overview](images\CEOS_overview.png)
 
 This repository contains the implementation for our prototype-rehearsal based method for exemplar-free class-incremental learning (EFCIL). The current codebase is built on top of the earlier EFC repository and extends it with two key components introduced in the paper:
 
